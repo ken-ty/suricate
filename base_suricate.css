@@ -251,6 +251,7 @@
         list-style: none;
     }
     #baseMenu > ul > li.base {
+        display: none;
         margin: 0 10px 0 0;
     }
     #baseMenu > ul > li a {

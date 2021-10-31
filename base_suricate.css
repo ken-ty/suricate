@@ -397,6 +397,15 @@
         text-align: center;
     }
 
+    @media(max-width: 660px) {
+        .shop #shopHeader h1 {
+            display: block;
+            font-size: 30px;
+            letter-spacing: 2px;
+            text-align: center;
+        }
+    }
+
     body.shop #shopHeader h1 a {
         display: inline-block;
     }

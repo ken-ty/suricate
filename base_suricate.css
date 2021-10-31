@@ -397,10 +397,6 @@
         text-align: center;
     }
 
-    body.shop #shopHeader h1 {
-        margin: 56px 0 34px;
-    }
-
     body.shop #shopHeader h1 a {
         display: inline-block;
     }
